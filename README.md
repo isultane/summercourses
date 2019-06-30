@@ -10,6 +10,7 @@ All chapters' sldies have been uploaded but __note__ the slides are subject to u
 - 23/06/2019: Slides for SRD uploaded. 
 - 23/06/2019: Course project (phas 01 materials uploaded). Students who did not assigned to group, today is the last day for projects assigments. 
 - 30/06/2019: Slides updated and old exams samples has been added. 
+- #### 30/06/2019: Midterm exam will be held in Tuseday 02/07/2019 (2:30 p.m. - 3:30 p.m.).
 
 ## [CS106 - Digital Logic](https://github.com/isultane/summercourses/tree/master/CS106%20-%20Digital%20Logic)
 Sldies for Chapter 1 is uploaded. The rest chapters slides are under process. Once there is new chapter slides, an uploaded notification will be sent to you. So please keep following this repository in order to get updates. 
