@@ -15,7 +15,8 @@ Sldies for Chapter 1 is uploaded. The rest chapters slides are under process. On
 
 ### Announcements
 - 18/06/2019: Wednesday leacture (19/06/2019) will be canceled due to the issues with the lab location and lab materials. 
-- 23/06/2019: Slides for chapter 02 has beed uploaded. 
+- 23/06/2019: Slides for chapter 02 has been uploaded. 
 - 23/06/2019: Homework due date is going to be tomorrow (24/06/2019 at 12:00 pm).
+- 30/06/2019: Slides for Chapter 03 has been uploaded. 
 
 NOTE: This page will be updated frequently 
