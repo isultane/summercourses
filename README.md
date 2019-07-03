@@ -10,7 +10,7 @@ All chapters' sldies have been uploaded but __note__ the slides are subject to u
 - 23/06/2019: Slides for SRD uploaded. 
 - 23/06/2019: Course project (phas 01 materials uploaded). Students who did not assigned to group, today is the last day for projects assigments. 
 - 30/06/2019: Slides updated and old exams samples has been added. 
-- #### 30/06/2019: Midterm exam will be held in Tuseday 02/07/2019 (2:30 p.m. - 3:30 p.m.).
+- #### 30/06/2019: The midterm exam will be held on Tuseday 02/07/2019 (2:30 p.m. - 3:30 p.m.).
 - 03/07/2019: Chapter 5 uploaded.
 - 03/07/2019: Project Phase #2 instructions uploaded. Any questions, use my email. 
 
@@ -22,5 +22,6 @@ Sldies for Chapter 1 is uploaded. The rest chapters slides are under process. On
 - 23/06/2019: Slides for chapter 02 has been uploaded. 
 - 23/06/2019: Homework due date is going to be tomorrow (24/06/2019 at 12:00 pm).
 - 30/06/2019: Slides for Chapter 03 has been uploaded. 
+- 03/07/2019: The mideterm exam will be held on Wednesday 10/07/2019 (10:00 a.m. - 11:00 a.m.). 
 
 NOTE: This page will be updated frequently 
