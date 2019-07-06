@@ -23,5 +23,6 @@ Sldies for Chapter 1 is uploaded. The rest chapters slides are under process. On
 - 23/06/2019: Homework due date is going to be tomorrow (24/06/2019 at 12:00 pm).
 - 30/06/2019: Slides for Chapter 03 has been uploaded. 
 - 03/07/2019: The mideterm exam will be held on Wednesday 10/07/2019 (10:00 a.m. - 11:00 a.m.). 
+- 04/07/2019: Lab-01 solutions uploaded. 
 
 NOTE: This page will be updated frequently 
