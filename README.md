@@ -25,5 +25,6 @@ Sldies for Chapter 1 is uploaded. The rest chapters slides are under process. On
 - #### 03/07/2019: The mideterm exam will be held on Wednesday 10/07/2019 (10:00 a.m. - 11:00 a.m.). 
 - 04/07/2019: Lab-01 solutions uploaded. 
 - 06/07/2019: Slides for Chapter 04 has been uploaded. 
+- 09/07/2019: Midterm exam will cover Chapters 1, 2 and 3 ONLY. Good luck!
 
 NOTE: This page will be updated frequently 
