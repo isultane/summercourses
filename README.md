@@ -27,5 +27,6 @@ Sldies for Chapter 1 is uploaded. The rest chapters slides are under process. On
 - 04/07/2019: Lab-01 solutions uploaded. 
 - 06/07/2019: Slides for Chapter 04 has been uploaded. 
 - 09/07/2019: Midterm exam will cover Chapters 1, 2 and 3 ONLY. Good luck!
+- 12/07/2019: Midterm questions and answers has been uploaded. 
 
 NOTE: This page will be updated frequently 
