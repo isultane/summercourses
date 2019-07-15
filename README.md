@@ -28,6 +28,7 @@ Sldies for Chapter 1 is uploaded. The rest chapters slides are under process. On
 - 06/07/2019: Slides for Chapter 04 has been uploaded. 
 - 09/07/2019: Midterm exam will cover Chapters 1, 2 and 3 ONLY. Good luck!
 - 12/07/2019: Midterm questions and answers has been uploaded. 
-- 12/07/2019: Lab exam will be on Chapter 4 (Full adder, decoders, and multiplexers). 
+- 12/07/2019: Lab exam will be on Chapter 4 (Full adder, decoders, and multiplexers).
+- 15/07/2019: Chapter 05's slides uploaded. 
 
 NOTE: This page will be updated frequently 
