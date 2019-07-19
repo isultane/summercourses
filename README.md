@@ -1,6 +1,6 @@
 # Summer 2019
 ### This repository for *CS310 - Software Engineering and CS106 - Digital Logic courses*. 
-## FINAL EXAMS SCHEDUEL IS [ONLINE] (https://github.com/isultane/summercourses/blob/master/Final%20exams%20schedule.pdf) 
+# FINAL EXAMS SCHEDUEL IS [ONLINE](https://github.com/isultane/summercourses/blob/master/Final%20exams%20schedule.pdf) 
 
 ## [CS310 - Software Engineering](https://github.com/isultane/summercourses/tree/master/CS310%20-%20Software%20Engineering)
 All chapters' sldies have been uploaded but __note__ the slides are subject to updates, mdifcations, and changes.
