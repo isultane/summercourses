@@ -17,7 +17,7 @@ All chapters' sldies have been uploaded but __note__ the slides are subject to u
 - 12/07/2019: Workshop next week is canceled. Just prepared for quizzes.  If there is any pre-submission for Phase #2 please try to do it at least one day before the deadline, in order to get my feedback quickly. 
 - 15/07/2019: Project Phase #3 is posted. 
 - 19/07/2019: Chapters 6,7 and 8 slides have been updated.
-- 20/07/2019: [Important] this week will have two important tasks (workshop assignment and project phase #1 and Phase #2 presentations)
+- 20/07/2019: [Important] this week,  there are two important tasks (workshop assignment and project phase #1 and Phase #2 presentations)
 
 ## [CS106 - Digital Logic](https://github.com/isultane/summercourses/tree/master/CS106%20-%20Digital%20Logic)
 Sldies for Chapter 1 is uploaded. The rest chapters slides are under process. Once there is new chapter slides, an uploaded notification will be sent to you. So please keep following this repository in order to get updates. 
