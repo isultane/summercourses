@@ -18,6 +18,8 @@ All chapters' sldies have been uploaded but __note__ the slides are subject to u
 - 15/07/2019: Project Phase #3 is posted. 
 - 19/07/2019: Chapters 6,7 and 8 slides have been updated.
 - 20/07/2019: [Important] this week,  there are two important tasks (workshop assignment and project phase #1 and Phase #2 presentations)
+- 21/07/2019: Midterm exam answers uploaded.
+- 21/07/2019: Assignemtn 1 is uploaded. Please note that the deadlin has beed extened to be Thursday 25/07/2019. 
 
 ## [CS106 - Digital Logic](https://github.com/isultane/summercourses/tree/master/CS106%20-%20Digital%20Logic)
 Sldies for Chapter 1 is uploaded. The rest chapters slides are under process. Once there is new chapter slides, an uploaded notification will be sent to you. So please keep following this repository in order to get updates. 
