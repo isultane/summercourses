@@ -39,5 +39,6 @@ Sldies for Chapter 1 is uploaded. The rest chapters slides are under process. On
 - 15/07/2019: Chapter 05's slides uploaded. 
 - 17/07/2019: Chapter 05 updated - slides added for the sequential design procedure.
 - 20/07/2019: Lab exam 02 will take place on Monday 22/07/2019 at 11:00 p.m. and Lab exam 03 will be on Wednesday 24/07/2019 at 11:00 p.m.
+- 21/07/2019: Chapter 06's slides uploaded.
 
 NOTE: This page will be updated frequently 
